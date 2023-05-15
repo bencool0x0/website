@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* for body*/
+
+.container {
+    margin: 0.5rem;
+}
+
+
+.week1logo {
+    height: 15rem;
+    width: 24rem;
+}
+
+.week1-header1 {
+    background-color:darkorange;
+    color:black;
+    font-family:sans-serif;
+    text-align:center;
+    border:.25rem solid black;
+}
+
+.week1-header2 {
+    background-color:lightgray;
+}
