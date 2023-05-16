@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bencool0x0/website.git/static/css/main.e05adfef.css",
+    "main.js": "/bencool0x0/website.git/static/js/main.a9cdbd06.js",
+    "static/media/python_logo.png": "/bencool0x0/website.git/static/media/python_logo.4859f801ae28a9ef09f8.png",
+    "index.html": "/bencool0x0/website.git/index.html",
+    "main.e05adfef.css.map": "/bencool0x0/website.git/static/css/main.e05adfef.css.map",
+    "main.a9cdbd06.js.map": "/bencool0x0/website.git/static/js/main.a9cdbd06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05adfef.css",
+    "static/js/main.a9cdbd06.js"
+  ]
+}
